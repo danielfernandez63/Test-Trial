@@ -1,0 +1,35 @@
+body{
+	background-color:#18DBC1
+	
+}
+ 
+h1{
+	color:orange;
+}
+
+.main-intro{
+	font-size: 2opx;
+	font-weight:bolder;
+}
+
+.intro-text {
+	font-size:15px;
+	font-style:italic;
+}
+.details{
+	color:blue;
+	letter-spacing: 5px;
+}
+.main-image{
+	display: inline;
+}
+
+.beta-image{
+	display:block;
+}
+
+.gamma-image{
+	position:absolute;
+	margin-left: 100px;
+	margin-top: 50px;
+}
